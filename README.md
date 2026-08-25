@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300/161b22/8b949e?text=Add+your+banner+image+here" alt="banner" width="100%"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Muhammad Faizan</h1>
 <h3 align="center">Odoo Techno-Functional Consultant · ERP Solutions Architect</h3>
@@ -16,7 +14,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" height="32" alt="linkedin"/>
   </a>
   <a href="mailto:chfaizanmahmood2001@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="32" height="32" alt="email"/>
+   
   </a>
 </p>
 
